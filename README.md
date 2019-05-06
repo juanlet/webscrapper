@@ -1,4 +1,6 @@
-SIMPLE WebScraper
+SIMPLE URL WebScraper
+
+Command line:
 
 node app.js url1 url2 ......
 
